@@ -1,4 +1,4 @@
-### Olá, tudo bem? 👋
+### Olá, tudo bem? 👋🏾
 
 **Walter Bento** é ✨ um desenvolvedor de códigos bonitos ✨
 
