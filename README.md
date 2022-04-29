@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 👋🏾
 
-**Walter Bento** é ✨ um desenvolvedor de códigos bonitos ✨
+**Walter Bento** é um ✨desenvolvedor de códigos bonitos ✨
 
 Factos sobre mim:
 
